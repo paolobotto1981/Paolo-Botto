@@ -38,10 +38,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
   </a>
   <a href="https://jwt.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jwt/jwt-original.svg" alt="JWT" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/82343537?s=200&v=4" alt="JWT" width="40" height="40"/> 
   </a>
   <a href="https://voiceflow.com/" target="_blank"> 
-    <img src="https://www.voiceflow.com/favicon.ico" alt="Voiceflow" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/42279788?s=200&v=4" alt="Voiceflow" width="40" height="40"/> 
   </a>
 </p>
 
@@ -53,4 +53,3 @@
   <li>📄 Lectura y aplicación de documentación técnica</li>
   <li>🤖 Uso de inteligencia artificial para optimización de código</li>
 </ul>
-
