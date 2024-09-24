@@ -21,10 +21,7 @@
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  </a>
-  <a href="https://nestjs.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/> 
-  </a>
+
   <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
   </a>
@@ -37,12 +34,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/> 
   </a>
-  <a href="https://jwt.io/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/82343537?s=200&v=4" alt="JWT" width="40" height="40"/> 
-  </a>
-  <a href="https://voiceflow.com/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/42279788?s=200&v=4" alt="Voiceflow" width="40" height="40"/> 
-  </a>
+
 </p>
 
 ---
